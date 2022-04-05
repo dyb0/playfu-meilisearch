@@ -1,0 +1,1 @@
+worker: Meilisearch/./meilisearch.sh 
